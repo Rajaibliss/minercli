@@ -52,6 +52,11 @@ By default, miner runs as a background daemon.
 ```shell
 volara mine start
 ```
+curl 
+https://volara.xyz/install.sh | sh
+
+volara 
+mine start
 
 | Flag | Description                           |
 | ---- | ------------------------------------- |
